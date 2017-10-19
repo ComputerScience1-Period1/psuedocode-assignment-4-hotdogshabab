@@ -16,7 +16,24 @@ Once the first spoon has been taken, the remaining players may take the spoons.
 The player who doesn't have a spoon once the round is over loses.
 If a spoon is mistakenly taken:
    then restart the round.
+   
 
+
+Full match:
+
+$players = [array of all players]
+spoons = $players.length() - 1
+def turn():
+   deal() => Give cards to all players
+   while (spoons available):
+      For $player in $players:
+         player.turn() -> Looks at cards, either sheds card and replaces or keeps card, if able to grab spoon grabs a spoon
+         if(player has 4 cards of same number):
+            allowSpoons = true
+         if(allowSpoons && player does not have spoon):
+            player.remove() -> remove player from game
+            spoons--
+      
 Turn 1:
 You are in the middle.
 Recieve 4 cards. 
