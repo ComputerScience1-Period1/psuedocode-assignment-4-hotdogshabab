@@ -33,37 +33,3 @@ While no spoons have been taken from the middle:
          Grab 1 spoon.
          You win.
    Take the card passed onto you and pass on the card in your hand that doesn't match with any of the others.
-
-Turn 2:
-You are in the middle.
-You have 4 cards in your hand.
-If no spoons remain in the middle:
-   You lose. 
-While no spoons have been taken from the middle:
-   If you have four cards of the same number:
-      Grab 1 spoon. 
-      You win. 
-   Look at the card that is passed onto you. 
-   If that card matches any one of yours:
-      If you already have 3 cards of the same number and that card passed onto you matches those 3 cards:
-         Take the card passed onto you and replace it with the card that doesn't match with any of the other cards in your hand.
-         Grab 1 spoon.
-         You win.
-   Take the card passed onto you and pass on the card in your hand that doesn't match with any of the others.
-
-Turn 3:
-You are in the middle.
-You have 4 cards in your hand.
-If no spoons remain in the middle:
-   You lose. 
-While no spoons have been taken from the middle:
-   If you have four cards of the same number:
-      Grab 1 spoon. 
-      You win. 
-   Look at the card that is passed onto you. 
-   If that card matches any one of yours:
-      If you already have 3 cards of the same number and that card passed onto you matches those 3 cards:
-         Take the card passed onto you and replace it with the card that doesn't match with any of the other cards in your hand.
-         Grab 1 spoon.
-         You win.
-   Take the card passed onto you and pass on the card in your hand that doesn't match with any of the others.
