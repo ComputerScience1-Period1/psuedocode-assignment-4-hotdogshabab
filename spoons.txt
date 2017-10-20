@@ -17,19 +17,43 @@ The player who doesn't have a spoon once the round is over loses.
 If a spoon is mistakenly taken:
    then restart the round.
 
-Turn 1:
+Turns:
 You are in the middle.
 Recieve 4 cards. 
-If no spoons remain in the middle:
-   You lose. 
-While no spoons have been taken from the middle:
-   If you have four cards of the same number:
-      Grab 1 spoon. 
+If you have four cards of the same number or someone has taken 1 spoon from the middle:
+   Try to grab 1 spoon from the middle.
+   If you are able to grab the spoon: 
       You win. 
+   Else:
+      You lose.
+
+If no spoons remain in the middle and you don't have a spoon in your hand:
+   You lose. 
+
+While no spoons have been taken from the middle:
    Look at the card that is passed onto you. 
    If that card matches any one of yours:
-      If you already have 3 cards of the same number and that card passed onto you matches those 3 cards:
-         Take the card passed onto you and replace it with the card that doesn't match with any of the other cards in your hand.
-         Grab 1 spoon.
-         You win.
-   Take the card passed onto you and pass on the card in your hand that doesn't match with any of the others.
+      If you have 3 cards of the same number and that card passed onto you matches those 3 cards:
+         Take the card passed onto you and pass on the non-matching card.
+         Grab 1 spoon from the middle.
+         If you are able to obtain the spoon: 
+            You win. 
+         Else:
+            You lose.
+      Else if you have 2 cards of the same number and that card passed onto you matches those 2 cards:
+         Take that card and pass on a non-matching card.
+      Else:
+         Take the matching card and pass on a non-matching card.
+   Else:
+      Pass on the card onto the next person.
+
+Grab 1 spoon.
+If you are able to obtain the spoon:             
+   You win. 
+Else:
+   You lose.
+
+
+
+
+
