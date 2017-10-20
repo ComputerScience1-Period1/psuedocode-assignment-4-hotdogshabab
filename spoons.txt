@@ -1,20 +1,20 @@
 Spoons
 
 Rules & Setup:
-Take the jokers out of the pile.
-Decide who will be the first person, the trash, and in the middle.
-You need one less spoon than the total amount of players.
-Place the spoons in the middle.
-Each player gets 4 cards and may only have 4 cards in their hand at a time.
-The first player takes the top card from the deck and can either pass it on the next person or replace it with a card in his hand and pass the unwanted card.
-The next player then takes the card passed on and does the same to his hand.
-This continues until the last person, who takes the passed on card and places it into a discard pile, AKA the trash.
-If there are still spoons remaining in the middle and the deck is finished:
-   then the discard pile will be handed to the first player to be used.
-To obtain the first spoon, a player must have 4 of a kind in their hand.
-Once the first spoon has been taken, the remaining players may take the spoons.
-The player who doesn't have a spoon once the round is over loses.
-If a spoon is mistakenly taken:
+1. Take the jokers out of the pile.
+2. Decide who will be the first person, the trash, and in the middle.
+3. You need one less spoon than the total amount of players.
+4. Place the spoons in the middle.
+5. Each player gets 4 cards and may only have 4 cards in their hand at a time.
+6. The first player takes the top card from the deck and can either pass it on the next person or replace it with a card in his hand and pass the unwanted card.
+7. The next player then takes the card passed on and does the same to his hand.
+8. This continues until the last person, who takes the passed on card and places it into a discard or trash pile
+9. If there are still spoons remaining in the middle and the deck is finished:
+   then the trash pile will be handed to the first player to be used.
+10. To obtain the first spoon, a player must have 4 of a kind in their hand.
+11. Once the first spoon has been taken, the remaining players may take the spoons.
+12. The player who doesn't have a spoon once the round is over loses.
+13. If a spoon is mistakenly taken:
    then restart the round.
 
 Turns:
@@ -22,7 +22,7 @@ You are in the middle.
 Recieve 4 cards. 
 If you have four cards of the same number or someone has taken 1 spoon from the middle:
    Try to grab 1 spoon from the middle.
-   If you are able to grab the spoon: 
+   If you are able to obtain the spoon: 
       You win. 
    Else:
       You lose.
@@ -30,24 +30,24 @@ If you have four cards of the same number or someone has taken 1 spoon from the 
 If no spoons remain in the middle and you don't have a spoon in your hand:
    You lose. 
 
-While no spoons have been taken from the middle:
-   Look at the card that is passed onto you. 
+While no spoons have been taken from the middle:     //this while statement just directs you on whether or not to take the card
+   Look at the card that is passed onto you.         /passed onto you
    If that card matches any one of yours:
-      If you have 3 cards of the same number and that card passed onto you matches those 3 cards:
+      If you have 3 cards of the same number and the card passed onto you matches those 3 cards:
          Take the card passed onto you and pass on the non-matching card.
          Grab 1 spoon from the middle.
          If you are able to obtain the spoon: 
             You win. 
          Else:
             You lose.
-      Else if you have 2 cards of the same number and that card passed onto you matches those 2 cards:
+      Else if you have 2 cards of the same number and the card passed onto you matches those 2 cards:
          Take that card and pass on a non-matching card.
       Else:
          Take the matching card and pass on a non-matching card.
    Else:
-      Pass on the card onto the next person.
+      Pass the card onto the next person.
 
-Grab 1 spoon.
+Grab 1 spoon.    
 If you are able to obtain the spoon:             
    You win. 
 Else:
