@@ -31,29 +31,25 @@ If no spoons remain in the middle and you don't have a spoon in your hand:
    You lose. 
 
 While no spoons have been taken from the middle:     //this while statement just directs you on whether or not to take the card
-   Look at the card that is passed onto you.         /passed onto you
+   Look at the card that is passed onto you.         //passed onto you while there are spoons in the middle
    If that card matches any one of yours:
-      If you have 3 cards of the same number and the card passed onto you matches those 3 cards:
-         Take the card passed onto you and pass on the non-matching card.
-         Grab 1 spoon from the middle.
-         If you are able to obtain the spoon: 
-            You win. 
+      If you have 3 cards of the same number:
+         If the card passed onto you matches those 3 cards:
+            Take the card passed onto you and pass on the non-matching card.
+            Try to grab 1 spoon from the middle.
+            If you are able to obtain the spoon: 
+               You win. 
+            Else:
+               You lose.
          Else:
-            You lose.
-      Else if you have 2 cards of the same number and the card passed onto you matches those 2 cards:
-         Take that card and pass on a non-matching card.
+            Pass the card onto the next person.
       Else:
          Take the matching card and pass on a non-matching card.
    Else:
       Pass the card onto the next person.
 
-Grab 1 spoon.    
+Try to grab 1 spoon from the middle.    
 If you are able to obtain the spoon:             
    You win. 
 Else:
    You lose.
-
-
-
-
-
