@@ -1,0 +1,68 @@
+Spoons
+
+Remove Jokers
+Choose first person, the trash, and the middle
+You need one less spoon than the total amount of players
+Place the spoons in the middle
+Each player gets 4 cards and may only have 4 cards in their hand at a time
+The first player takes the top card from the deck and can either pass it on the next person or replace it with a card in his hand and pass the unwanted card.
+The next player then takes the card passed on and does the same to his hand
+This continues until the last person, who takes the passed on card and places it into a discard pile, AKA the trash
+If there are still spoons remaining in the middle and the deck is finished:
+   then the discard pile will be handed to the first player to be used
+To obtain the first spoon, a player must have 4 of a kind in their hand
+Once the first spoon has been taken, the remaining players may take the spoons.
+The player who doesn't have a spoon once the round is over loses
+If a spoon is mistakenly taken:
+   then restart the round
+
+Turn 1:
+You are in the middle
+Recieve 4 cards
+If no spoons remain in the middle:
+   You lose
+While no spoons have been taken from the middle:
+   If you have four cards of the same number:
+      Grab 1 spoon
+      You win
+   Look at the card that is passed onto you
+   If that card matches any one of yours:
+      If you already have 3 cards of the same number and that card passed onto you matches those 3 cards:
+         Take the card passed onto you and replace it with the card that doesn't match with any of the other cards in your hand.
+         Grab 1 spoon.
+         You win.
+   Take the card passed onto you and pass on the card in your hand that doesn't match with any of the others.
+
+Turn 2:
+You are in the middle.
+You have 4 cards in your hand.
+If no spoons remain in the middle:
+   You lose. 
+While no spoons have been taken from the middle:
+   If you have four cards of the same number:
+      Grab 1 spoon. 
+      You win. 
+   Look at the card that is passed onto you. 
+   If that card matches any one of yours:
+      If you already have 3 cards of the same number and that card passed onto you matches those 3 cards:
+         Take the card passed onto you and replace it with the card that doesn't match with any of the other cards in your hand.
+         Grab 1 spoon.
+         You win.
+   Take the card passed onto you and pass on the card in your hand that doesn't match with any of the others.
+
+Turn 3:
+You are in the middle.
+You have 4 cards in your hand.
+If no spoons remain in the middle:
+   You lose. 
+While no spoons have been taken from the middle:
+   If you have four cards of the same number:
+      Grab 1 spoon. 
+      You win. 
+   Look at the card that is passed onto you. 
+   If that card matches any one of yours:
+      If you already have 3 cards of the same number and that card passed onto you matches those 3 cards:
+         Take the card passed onto you and replace it with the card that doesn't match with any of the other cards in your hand.
+         Grab 1 spoon.
+         You win.
+   Take the card passed onto you and pass on the card in your hand that doesn't match with any of the others.
